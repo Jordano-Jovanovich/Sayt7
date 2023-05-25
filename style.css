@@ -1,0 +1,13 @@
+ul li {
+    color: brown;
+    font-style: italic;
+
+}
+ul li:hover {
+    color: aquamarine;
+    font-weight: bolder;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+}
